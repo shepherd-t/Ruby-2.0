@@ -1,2 +1,3 @@
 # Ruby-2.0
-Ruby, IRB, Ruby programs and Ruby web applications via Sinatra (gem)
+server-side programming in an introduction to Ruby
+including Ruby, IRB, Ruby programs and Ruby web applications via Sinatra (gem)
